@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+{% load render_bundle from webpack_loader %}
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	{% block content %}
+	{% endblock %}
+	{% render_bundle 'app' %}
+</body>
+</html>
