@@ -1,6 +1,6 @@
 certifi==2018.4.16
 chardet==3.0.4
-Django==1.11.14
+Django==2.2.24
 django-admin==1.2.7
 django-excel-response2==2.0.8
 django-filter==2.0.0
